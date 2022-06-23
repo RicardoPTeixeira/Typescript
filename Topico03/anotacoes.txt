@@ -1,0 +1,16 @@
+-Array: pode especificar array como tipo. Array de numeros: number[].Array de string: string[].
+-Any: pode ser qualquer tipo, totalmente contra os principios do TS
+-Tipo de parametro de funcao condiciona o uso correto da funcao
+-Tipo de retorno de funcao
+-Funcoes anonimas faz uma validacao do codigo, fornecendo dicas de possiveis problemas
+-Tipos de objetos
+-Propriedades opcionais
+-Validacao de props opcionais
+-Union types é uma alternativa melhor que any, pode determinar dois tipos para um dado
+-Type alias permite criar um tipo e determinar o que ele verifica
+-Interfaces
+-Type alias x interface: Interface pode ser alterada ao longo do codigo, ja o alias nao
+-Literal types permite colocar valores como tipos
+-Non-null Assertion Operator, evita o erro baseado em um valor que ainda nao esta disponivel no codigo
+-Bigint: declarar numeros com valores muito altos, podendo usar notacao literal: 100n. Versao do TS ES2020
+-Symbol: cria uma referencia unica para um valor

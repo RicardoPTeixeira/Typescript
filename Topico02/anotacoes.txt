@@ -1,0 +1,10 @@
+-Ajuda no desenvolvimento por dar mensagem de erro
+-Software melhor programado
+-Tipos primitivos: number, string e boolean
+-Tipo number: apenas numeros, e tambem possibilita insercao der metodos numericos
+-Tipo string: apenas texto, e tambem insercao de metodos de texto
+-Tipo boolean: apenas booleanos
+-TS é um pair programming, pois sempre avisa quando algo esta errado
+-Type anotation: definir tipo manualmente
+-Type inference: o TS identifica e define o tipo
+-Autocompilacao: tsc -w

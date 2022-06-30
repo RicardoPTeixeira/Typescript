@@ -1,0 +1,12 @@
+-Funcoes
+-Funcoes sem retorno: utilizar o caso void. Diz ao TS que nao tem valor de retorno
+-Callback como argumento: funcao de callback como argumento. Definir o tipo de argumento aceito pola callback e tambem o tipo de retorno
+-Generic functions: quando o tipo de retorno é relacionadfo com o tipo de argumento. Normalmente utiliza-se letras como T ou U para Definir
+-Constrains nas generics functions: generic functions podem ter seu escopo reduzido por constrains, limitar os tipos que podem ser utilizados
+-Definindo tipos de parametros em generic
+-Parametros opcionais: se for opcional tem que declarar para o TS e deixar no fim da lista
+-Parametro default: parametros ja possuem valor definido, se nao passar na funcao, é utilizado o valor ja setado
+-Tipo unknown: semelhante ao any, aceita qualquer dado, porem ele nao deixa algo ser executado se nao houver validacao de tipo
+-Tipo never: semelhante ao void, porem é utilizado quando a funcao nao retorna nada. Exemplo: retorno de erros
+-Rest operator
+-Destructuring em parametros

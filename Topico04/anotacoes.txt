@@ -1,0 +1,8 @@
+-Narrowing: forma de validar tipos
+-Situacoes que os tipos podem ser imprevisiveis, assim executando algo para cada uma das possibilidades
+-Evita erros no compilador, identificando e resolvendo os possiveis erros na hora do desenvolvimento
+
+-Typeof type guard: validacao usando Typeof. Compara o retorno com um possivel tipo. Os dados vem como string. A partir disso cria-se bifurcacoes.
+-Checagem de valor: colocar uma variavel em um if e se houver retorna true
+-Operador instanceof: checagem de dado se pertence a uma classe. Para alem dos tipos primitivos
+-Operador in: checa se existe uma propriedade no objeto

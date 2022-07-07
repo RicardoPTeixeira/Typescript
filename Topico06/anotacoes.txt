@@ -1,0 +1,12 @@
+- Object types: dados que tem como tipo objeto
+- diversos recursos como Interface, readonly, tupla, executado
+- de tipo para Interface: simplificar os parametros de objeto de funcoes
+- propriedades opcionais em interfaces: ?
+- propriedade readonly: pode ser alterado apenas uma vez, na criacao. é uma forma de criar valor constante
+- Index Signature: quando nao sabemos o nome das chaves mas hja sabemos quais os tipos de um objeto em uma array
+- Extending types: heranca para criar tipos mais complexos por meio de uma interface
+- Intersection Types: utilizadoas para criar tipos mais complexos por meio de duas interfaces. pode-se concatenar os tipos com &
+- ReadOnlyArray: tipo para array que deixa os itens como readonly
+- tuplas: tipo de array, porem definimos a quantidadee e o tipo de elementos. Criamos um novo type, e nele inserimos um array com os tipos necessarios
+- tuplas com readonly: tipo de dado restrito pois limita quantos itens teremos, qual o tipo de cada um e tambem nao modificavies
+- 

@@ -1,0 +1,11 @@
+- Criacao de tipos
+- deixar a manutencao do projeto mais simples, gastar meis tempo na estruturacao dos tipos e menos na busca de possiveis bugs depois
+- Generics: quando a funcao pode aceitar mais de um tipo, é mais interessante que o any
+- Constrains em Generics: ajudam a limitar os tipos aceitos pelo generics
+- Interfaces com Generics: criar tipos complexos para objetos. Adicionando Generics podemos deixa-lo mais brandos , aceitando tipos diferentes em ocasiões diferentes
+- Type parameters: recurso do generics. utilizado para dizer que algum parametro de uma funcao, por exemplo, é a chave de um objeto, que tambem é parametro. cria-se uma ligacao entre o tipo generico e sua chave
+- keyof Type Operator: pode-se criar um novo tipo. ele aceita dados do tipo objeto e pode criar o tipo baseado nas chaves do objeto passado como parametro
+- typeof Type Operator: pode-se criar um novo tipo que sera baseado no tipo de algum dado
+- Indexed Access Types: pode criar um tipo baseado em uma chave de objeto
+- Conditional Expressions Type: pode criar um novo tipo com base em um if/else mas ano aceita expressoes tao amplas. if ternario
+- Template Literals Type: pode criar tipos com Template literals. é uma forma de customizar tipos de maneiras infinitas pois o texto que formamos pode depender de variaveis

@@ -9,4 +9,3 @@
 - ReadOnlyArray: tipo para array que deixa os itens como readonly
 - tuplas: tipo de array, porem definimos a quantidadee e o tipo de elementos. Criamos um novo type, e nele inserimos um array com os tipos necessarios
 - tuplas com readonly: tipo de dado restrito pois limita quantos itens teremos, qual o tipo de cada um e tambem nao modificavies
-- 

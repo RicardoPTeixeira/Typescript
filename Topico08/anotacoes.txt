@@ -1,0 +1,20 @@
+- Campos em classes: iniciar a classe com campos para os futuros dados dos objetos que serao propriedades dis objetos instanciados. Deve ser declarado com !
+- Constructor: possibilita iniciar um objeto com valores nos seus campos, nao precisa do !
+- Readonly: valor apenas para consulta, nao pode ser alterado
+- Heranca e super: usa o extends, depois passa as propriedades da classe pai para ela
+- Metodos: funcoes em classes que podem ser chamadas para executar alguma acao
+- This: referencia o objeto atual, usado para acessar os campos da classe
+- Getters: metodos que retornam valores, usado para acessar os campos da classe. Pode ser modificado neste retorno
+- Setters: metodos que alteram valores, usado para alterar os campos da classe. Pode ser modificado no parametro
+- Heranca de interfaces: pode herdar de interfaces com implements, utilizada para criar metodos que varias classes terao em comum
+- Override de metodos: utilizada para substituir um metodo de uma classe que herdamos, basta criar o metodo com o mesmo nome na classe filha
+- Visibilidade: expor nossos metodos de classes
+  - public: metodos publicos, podem ser acessados por qualquer classe
+  - private: metodos privados, apenas podem ser acessados pela classe que os criou
+  - protected: metodos protegidos, podem ser acessados por classes que herdam da classe que os criou
+- Static members: criar metodos e propriedades estaticos, podem ser acessados diretamente pela classe, nao precisa instanciar um objeto para acessar
+- Generic Class: classe que pode receber qualquer tipo de dado, utilizada para criar classes que podem receber qualquer tipo de dado
+- Parameters properties: recurso para definir privacidade, nome e tipo das propriedades no construtor. Resumo um pouco a sintaxe das classes
+- Class expressions: cria uma classe anonima, pode utilizar generics junto
+- Abstract classes: classe abstrata, nao pode ser instanciada, apenas herda de outra classe
+- Relacoes entre classes: pode criar um objeto com base em outra classe. Quando as classes sao IDENTICAS o TS nao reclama sobre esa acao

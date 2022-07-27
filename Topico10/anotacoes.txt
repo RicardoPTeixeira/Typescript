@@ -1,0 +1,6 @@
+- Decorators podem adicionar funcionalidade extras a classes e funcoes
+- Criamos novas funcoes, que sao adicionadas a partir de um @nome
+- Essa funcao sera chamada assim que o item que foi definido o decorator sera executado
+- Precisa habilitar no tsconfig.json
+- Pode trabalhar com argumentos especias: target, propertyKey, descriptor. Dao informacoes do local que foi executado
+- A ordem de execucao é do que esta mais proximo de onde é chamado

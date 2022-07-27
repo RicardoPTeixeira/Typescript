@@ -1,0 +1,2 @@
+- export defaul e import
+- Importar os arquivos .js
